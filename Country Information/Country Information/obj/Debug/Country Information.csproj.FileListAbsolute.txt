@@ -1,0 +1,10 @@
+C:\Users\botta\source\repos\Country Information\Country Information\bin\Debug\Country Information.exe.config
+C:\Users\botta\source\repos\Country Information\Country Information\bin\Debug\Country Information.exe
+C:\Users\botta\source\repos\Country Information\Country Information\bin\Debug\Country Information.pdb
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country Information.csprojAssemblyReference.cache
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country_Information.Properties.Resources.resources
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country Information.csproj.GenerateResource.cache
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country Information.exe
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country Information.pdb
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country_Information.Form1.resources
+C:\Users\botta\source\repos\Country Information\Country Information\obj\Debug\Country Information.csproj.CoreCompileInputs.cache

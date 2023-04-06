@@ -1,0 +1,15 @@
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.exe
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.csprojAssemblyReference.cache
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.AssemblyInfoInputs.cache
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.AssemblyInfo.cs
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.deps.json
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.runtimeconfig.json
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.runtimeconfig.dev.json
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.dll
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\ScraperWebsitePDF.pdb
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.csproj.CoreCompileInputs.cache
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.csproj.CopyComplete
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.dll
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.pdb
+C:\Users\botta\source\repos\ScraperWebsitePDF\ScraperWebsitePDF\obj\Debug\netcoreapp3.1\ScraperWebsitePDF.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "slTQxhDrkC6nAv9kW+anjnTJfyg/CPJDJoXRaZ+OxanuRawtX0DcZW3JE0AvuPJXBRUMdP+P6o/zX7PF04ToHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\botta\\source\\repos\\ScraperWebsitePDF\\ScraperWebsitePDF\\ScraperWebsitePDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\botta\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
